@@ -1,7 +1,7 @@
 # Wireless EMG accelerometer and Kinect for motion analysis
 Motion analysis study by using a wireless EMG, accelerometer and kinect tracking.
 
-## The name of this project:
+## Aim of the project:
 "Gait analysis and the relationship of the quadriceps’ muscle activity in the sagittal
 plane, under distinct conditions of footwear"
 
