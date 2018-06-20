@@ -38,7 +38,7 @@ The materials:
                    was filtered with a Fast Fourier Transform and then a bluetooth device was set.
                    
  <img src="images/diagram.PNG" width="250" height="150">
- ![diagram](https://user-images.githubusercontent.com/39096829/41636483-6f7c4ce6-7414-11e8-9997-429aa27f5ae5.PNG)
+
  
  
                    
