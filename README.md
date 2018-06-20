@@ -1,7 +1,7 @@
-# -Wireless-EMG-accelerometer-and-Kinect-for-motion-analysis
+# Wireless EMG accelerometer and Kinect for motion analysis
 Motion analysis study by using a wireless EMG, accelerometer and kinect tracking.
 
-The name of this project:
+## The name of this project:
 "Gait analysis and the relationship of the quadriceps’ muscle activity in the sagittal
 plane, under distinct conditions of footwear"
 
@@ -12,7 +12,7 @@ Therefore, I wanted to test and verify the footwear influence in quadriceps’ m
 to corroborate that indeed the more high the footwear platform, the more stress (electrical
 activity) in the quadriceps’ muscle is perceived.
 
-STRUCTURE: 
+## File Structure: 
 
 FOLDER EMG & accelerometer results****** Data adquisition of EMG & accelerometer results.
 
@@ -28,7 +28,8 @@ ARTICLE********************************* Article created at the end of the proje
 
 DEMO************************************ Quick video demonstration.
 
-The materials:
+## The materials:
+```
 -Kinect----------> to track the human bodu joints, such as, hips, knees, heels, elbows, shoulders.
                    to compare the angles formed under distinct conditions of footwear.
 -Accelerometers--> to track the hip's position everytime, as well as the acceleration, velocity 
@@ -36,7 +37,7 @@ The materials:
 -EMG-------------> Electromiogrpah, the electronic device which adquires the muscle's electrical 
                    activity. Which it was biuld and design from scratch. Morever, the signal adquired 
                    was filtered with a Fast Fourier Transform and then a bluetooth device was set.
- 
+ ```
  Some images: Quick overview diagram, the Program running the goniometer, the Graphical User Interface
  and some results.
  <img src="images/diagram.PNG" width="350" height="250">
