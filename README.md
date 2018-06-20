@@ -15,11 +15,17 @@ activity) in the quadriceps’ muscle is perceived.
 STRUCTURE: 
 
 FOLDER EMG & accelerometer results****** Data adquisition of EMG & accelerometer results.
+
 FOLDER Goniometer results*************** Data adquisition of Goniometer results.
+
 ANALISIS.M ***************************** The main code.
-ANALISIS.FIG *************************** Graphical User interface from Matlab.he 
+
+ANALISIS.FIG *************************** Graphical User interface from Matlab.
+
 USER'S MANUAL ************************** GUI manual.
+
 ARTICLE********************************* Article created at the end of the project.
+
 DEMO************************************ Quick video demonstration.
 
 The materials:
@@ -31,6 +37,8 @@ The materials:
                    activity. Which it was biuld and design from scratch. Morever, the signal adquired 
                    was filtered with a Fast Fourier Transform and then a bluetooth device was set.
                    
- <img src="images/diagram.png" width="250" height="150">
+ <img src="images/diagram.PNG" width="250" height="150">
+ ![diagram](https://user-images.githubusercontent.com/39096829/41636483-6f7c4ce6-7414-11e8-9997-429aa27f5ae5.PNG)
+ 
  
                    
