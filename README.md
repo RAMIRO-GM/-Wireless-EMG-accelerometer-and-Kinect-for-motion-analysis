@@ -37,8 +37,10 @@ The materials:
                    activity. Which it was biuld and design from scratch. Morever, the signal adquired 
                    was filtered with a Fast Fourier Transform and then a bluetooth device was set.
                    
- <img src="images/diagram.PNG" width="250" height="150">
-
+ <img src="images/diagram.PNG" width="350" height="250">
+ <img src="images/gonio.PNG" width="350" height="250">
+ <img src="images/layout.PNG" width="350" height="250">
+<img src="images/result.PNG" width="350" height="250">
  
  
                    
